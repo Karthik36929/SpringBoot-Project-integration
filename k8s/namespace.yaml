@@ -1,0 +1,7 @@
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: adding-numbers-api-namespace
+  labels:
+    name: adding-numbers-api
